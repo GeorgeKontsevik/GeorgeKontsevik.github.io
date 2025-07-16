@@ -2,58 +2,40 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>CSV Data Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Airtable Embed</title>
   <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    table { border-collapse: collapse; width: 100%; max-width: 900px; margin: auto; }
-    th, td { border: 1px solid #ddd; padding: 8px; }
-    th { background-color: #f4f4f4; text-align: left; }
-    tr:nth-child(even) { background-color: #fafafa; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    nav {
+      background-color: #007bff;
+      color: white;
+      padding: 1em 2em;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+    iframe.airtable-embed {
+      border: 1px solid #ccc;
+      flex-grow: 1;
+      width: 100%;
+      min-height: 0; /* for flexbox */
+    }
   </style>
 </head>
 <body>
-  <h1 style="text-align:center;">Airtable CSV Data</h1>
-  <table id="csv-table">
-    <thead></thead>
-    <tbody></tbody>
-  </table>
-
-  <script>
-    async function loadCSV() {
-      try {
-        const response = await fetch('Conferences.csv');  // Adjust path if CSV is in a subfolder
-        const csvText = await response.text();
-
-        const rows = csvText.trim().split('\n').map(row => row.split(','));
-        const thead = document.querySelector('#csv-table thead');
-        const tbody = document.querySelector('#csv-table tbody');
-
-        // Header row
-        const headerRow = document.createElement('tr');
-        rows[0].forEach(header => {
-          const th = document.createElement('th');
-          th.textContent = header;
-          headerRow.appendChild(th);
-        });
-        thead.appendChild(headerRow);
-
-        // Data rows
-        rows.slice(1).forEach(row => {
-          const tr = document.createElement('tr');
-          row.forEach(cell => {
-            const td = document.createElement('td');
-            td.textContent = cell;
-            tr.appendChild(td);
-          });
-          tbody.appendChild(tr);
-        });
-      } catch (e) {
-        document.body.innerHTML = '<p style="color:red;text-align:center;">Failed to load CSV data</p>';
-        console.error(e);
-      }
-    }
-
-    loadCSV();
-  </script>
+  <nav>
+    My Airtable Table
+  </nav>
+  <iframe 
+    class="airtable-embed"
+    src="https://airtable.com/embed/appKCacJiVwM272kj/shrOI5LNk8yVVzegC"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
 </body>
 </html>
