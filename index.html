@@ -1,34 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Airtable Embed</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      display: flex;
-      flex-direction: column;
-      height: 100vh;
-    }
-    nav {
-      background-color: #ffffff;
-      color: rgb(0, 0, 0);
-      padding: 1em 2em;
-      font-weight: bold;
-    }
-    iframe.airtable-embed {
-      flex-grow: 1;
-      width: 100%;
-      border: 1px solid #ccc;
-      background: transparent;
-      min-height: 0; /* for flexbox */
-    }
-  </style>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Some of my findings</title>
+<!-- Favicon options - choose one approach -->
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/98597244?v=4">
+
+<style>
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+display: flex;
+flex-direction: column;
+height: 100vh;
+ }
+nav {
+background-color: #ffffff;
+color: rgb(0, 0, 0);
+padding: 1em 2em;
+font-weight: bold;
+display: flex;
+align-items: center;
+gap: 0.5em;
+ }
+nav::before {
+content: "🏢";
+font-size: 1.2em;
+}
+iframe.airtable-embed {
+flex-grow: 1;
+width: 100%;
+border: 1px solid #ccc;
+background: transparent;
+min-height: 0; /* for flexbox */
+ }
+</style>
 </head>
 <body>
-  <nav>Urban-data Conferences and Workshops</nav>
-  <iframe class="airtable-embed" src="https://airtable.com/embed/appKCacJiVwM272kj/shrgSBuKRjZSWbAQg" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<nav>Urban-data Conferences and Workshops</nav>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appKCacJiVwM272kj/shrgSBuKRjZSWbAQg" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </body>
 </html>
