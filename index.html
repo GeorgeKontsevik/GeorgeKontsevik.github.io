@@ -8,30 +8,28 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      height: 100vh;
       display: flex;
       flex-direction: column;
+      height: 100vh;
     }
     nav {
       background-color: #007bff;
       color: white;
       padding: 1em 2em;
-      font-size: 1.2em;
       font-weight: bold;
     }
     iframe.airtable-embed {
-      border: 1px solid #ccc;
       flex-grow: 1;
       width: 100%;
-      min-height: 0; /* for flexbox */
+      border: 1px solid #ccc;
+      background: transparent;
+      min-height: 0; /* for flexbox to work */
     }
   </style>
 </head>
 <body>
-  <nav>
-    My Airtable Table
-  </nav>
-  <iframe 
+  <nav>My Airtable Table</nav>
+  <iframe
     class="airtable-embed"
     src="https://airtable.com/embed/appKCacJiVwM272kj/shrOI5LNk8yVVzegC"
     frameborder="0"
