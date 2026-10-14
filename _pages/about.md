@@ -22,6 +22,3 @@ I developed and taught three cohorts of a master's-level course on spatial analy
 
 My publications cover transport connectivity, seasonal service accessibility in the Arctic, urban blocks, building-level population modeling, and spatial inequality. Publication records use the author names as they appear in the original works, including Georgii Kontsevik and Georgii I. Kontsevik.
 
-## Contact
-
-[george.kontsevik@gmail.com](mailto:george.kontsevik@gmail.com) · [LinkedIn](https://www.linkedin.com/in/george-kontsevik/) · [GitHub](https://github.com/GeorgeKontsevik) · [Google Scholar](https://scholar.google.com/citations?user=S--bTg8AAAAJ&hl=en)
