@@ -23,14 +23,6 @@
 <style>
   html { background: var(--global-bg-color, #fff); color-scheme: light; }
   html[data-theme="dark"] { background: var(--global-bg-color, #474747); color-scheme: dark; }
-  @view-transition { navigation: auto; }
-  ::view-transition-old(root), ::view-transition-new(root) {
-    animation-duration: 180ms;
-    animation-timing-function: ease-in-out;
-  }
-  @media (prefers-reduced-motion: reduce) {
-    @view-transition { navigation: none; }
-  }
 </style>
 
 <!-- For all browsers -->
