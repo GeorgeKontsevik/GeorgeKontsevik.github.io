@@ -1,0 +1,16 @@
+---
+title: "Assessing the transport connectivity of urban territories, based on intermodal transport accessibility"
+authors: "Aleksandr S. Morozov, Georgii I. Kontsevik, Irina A. Shmeleva, Lasse Schneider, Nikita Zakharenko, Semen Budenny, Sergey A. Mityagin"
+publication_year: 2023
+venue: "Frontiers in Built Environment"
+category: "manuscripts"
+publication_url: "https://doi.org/10.3389/fbuil.2023.1148708"
+citation: "Aleksandr S. Morozov, Georgii I. Kontsevik, Irina A. Shmeleva, Lasse Schneider, Nikita Zakharenko, Semen Budenny, Sergey A. Mityagin (2023). Assessing the transport connectivity of urban territories, based on intermodal transport accessibility. Frontiers in Built Environment, 9, 1148708."
+source_url: "https://api.crossref.org/works/10.3389/fbuil.2023.1148708"
+collection: "publications"
+permalink: "/publication/assessing-the-transport-connectivity-of-urban-territories-based-on-intermodal-transport-accessibility/"
+---
+
+Aleksandr S. Morozov, Georgii I. Kontsevik, Irina A. Shmeleva, Lasse Schneider, Nikita Zakharenko, Semen Budenny, Sergey A. Mityagin (2023). Assessing the transport connectivity of urban territories, based on intermodal transport accessibility. Frontiers in Built Environment, 9, 1148708.
+
+[Read the publication](https://doi.org/10.3389/fbuil.2023.1148708)
