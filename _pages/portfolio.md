@@ -9,5 +9,14 @@ The first ten entries describe my work at the ITMO Institute of Design and Urban
 
 {% include base_path %}
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% unless post.category == 'unfinished' %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+
+<h2>Unfinished</h2>
+{% for post in site.portfolio %}
+  {% if post.category == 'unfinished' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
