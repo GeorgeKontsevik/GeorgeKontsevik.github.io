@@ -49,7 +49,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.collection == 'publications' or page.collection == 'portfolio' %}
+        {% if page.image_slot or page.collection == 'publications' or page.collection == 'portfolio' %}
           {% include entry-image.html item=page %}
         {% endif %}
         {{ content }}

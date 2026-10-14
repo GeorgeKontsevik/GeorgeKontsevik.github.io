@@ -1,0 +1,7 @@
+<article class="archive__item archive__item--with-image">
+  <div class="archive__item-content">
+    <h2 class="archive__item-title">{{ include.item.title | escape }}</h2>
+    {{ include.item.description | markdownify }}
+  </div>
+  {% include entry-image.html item=include.item %}
+</article>

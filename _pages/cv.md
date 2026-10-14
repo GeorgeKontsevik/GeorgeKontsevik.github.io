@@ -3,6 +3,9 @@ title: "CV"
 permalink: /cv/
 layout: single
 author_profile: true
+image_slot: true
+image: ""
+image_alt: ""
 ---
 
 [Download the PDF CV](/files/George_Kontsevik_Resume.pdf)

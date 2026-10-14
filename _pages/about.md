@@ -3,6 +3,9 @@ title: "Data Scientist (Geospatial)"
 permalink: /
 layout: single
 author_profile: true
+image_slot: true
+image: ""
+image_alt: ""
 ---
 
 I am George Kontsevik, a Data Scientist (Geospatial) with 5+ years of experience in commercial and R&D development. I specialize in spatial data analysis, predictive modeling, and evaluating development scenarios for products and services.
