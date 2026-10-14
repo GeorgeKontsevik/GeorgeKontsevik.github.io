@@ -3,6 +3,8 @@ title: "Seasonal Arctic transport networks"
 collection: "portfolio"
 permalink: "/project/season_framed_multilayer_arctic_network_model/"
 excerpt: "Code and figures for the paper “Environment-framed networks: seasonal reconfiguration of service accessibility in Arctic transport systems”."
+image: "/images/projects/arctic-study-area.png"
+image_alt: "Arctic transport network study area"
 ---
 
 Code and figures for the paper “Environment-framed networks: seasonal reconfiguration of service accessibility in Arctic transport systems”.

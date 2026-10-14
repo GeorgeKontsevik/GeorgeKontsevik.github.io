@@ -1,0 +1,8 @@
+{% assign item = include.item %}
+<aside class="entry-image" aria-label="Image for {{ item.title | escape }}">
+  {% if item.image and item.image != "" %}
+    <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}" loading="lazy">
+  {% else %}
+    <div class="entry-image__placeholder"><span>Image pending</span></div>
+  {% endif %}
+</aside>

@@ -9,6 +9,8 @@ citation: "Dmitrii Fedorov, Georgii Kontsevik, Roman Bashirov, Sergey Mityagin, 
 source_url: "https://api.crossref.org/works/10.1140/epjds/s13688-025-00542-0"
 collection: "publications"
 permalink: "/publication/assessing-the-complexity-of-a-path-search-optimization-method-based-on-clustering-for-a-transport-graph/"
+image: ""
+image_alt: ""
 ---
 
 Dmitrii Fedorov, Georgii Kontsevik, Roman Bashirov, Sergey Mityagin, Liubov Tupikina, Nikita Zakharenko, Semen Budennyy (2025). Assessing the complexity of a path search optimization method based on clustering for a transport graph. EPJ Data Science, 14, 32.

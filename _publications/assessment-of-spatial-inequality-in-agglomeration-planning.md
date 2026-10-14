@@ -9,6 +9,8 @@ citation: "Georgii Kontsevik, Igor Lavrov, Aleksandr Morozov, Leonid Kharlov, Se
 source_url: "https://api.crossref.org/works/10.1007/978-3-031-36808-0_17"
 collection: "publications"
 permalink: "/publication/assessment-of-spatial-inequality-in-agglomeration-planning/"
+image: ""
+image_alt: ""
 ---
 
 Georgii Kontsevik, Igor Lavrov, Aleksandr Morozov, Leonid Kharlov, Sergey Mityagin (2023). Assessment of Spatial Inequality in Agglomeration Planning. Computational Science and Its Applications – ICCSA 2023, 256-269.

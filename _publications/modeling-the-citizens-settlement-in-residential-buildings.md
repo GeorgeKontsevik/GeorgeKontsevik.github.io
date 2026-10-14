@@ -9,6 +9,8 @@ citation: "Georgii Kontsevik, Aleksei Sokol, Yuri Bogomolov, Vladislav P. Evstig
 source_url: "https://api.crossref.org/works/10.1016/j.procs.2022.10.207"
 collection: "publications"
 permalink: "/publication/modeling-the-citizens-settlement-in-residential-buildings/"
+image: ""
+image_alt: ""
 ---
 
 Georgii Kontsevik, Aleksei Sokol, Yuri Bogomolov, Vladislav P. Evstigneev, Sergey A. Mityagin (2022). Modeling the citizens' settlement in residential buildings. Procedia Computer Science, 212, 51-63.

@@ -39,6 +39,8 @@ publication_category:
     title: 'Conference Papers and Proceedings'
   preprints:
     title: 'Preprints'
+  unfinished:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -235,7 +237,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:

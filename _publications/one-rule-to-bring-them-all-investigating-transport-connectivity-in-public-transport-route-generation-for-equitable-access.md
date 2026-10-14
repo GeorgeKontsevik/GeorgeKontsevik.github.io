@@ -9,6 +9,8 @@ citation: "Aleksandr Morozov, Ruslan Kozliak, Georgii Kontsevik, Sergey Mityagin
 source_url: "https://arxiv.org/abs/2602.15053"
 collection: "publications"
 permalink: "/publication/one-rule-to-bring-them-all-investigating-transport-connectivity-in-public-transport-route-generation-for-equitable-access/"
+image: ""
+image_alt: ""
 ---
 
 Aleksandr Morozov, Ruslan Kozliak, Georgii Kontsevik, Sergey Mityagin (2026). One Rule to Bring Them All: Investigating Transport Connectivity in Public Transport Route Generation for Equitable Access. arXiv:2602.15053. Preprint.

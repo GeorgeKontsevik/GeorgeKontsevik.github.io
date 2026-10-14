@@ -9,6 +9,8 @@ citation: "Vasilii Starikov, Ruslan Kozliak, Georgii Kontsevik, Sergey Mityagin 
 source_url: "https://arxiv.org/abs/2602.10923"
 collection: "publications"
 permalink: "/publication/spatial-morphological-modeling-for-multi-attribute-imputation-of-urban-blocks/"
+image: ""
+image_alt: ""
 ---
 
 Vasilii Starikov, Ruslan Kozliak, Georgii Kontsevik, Sergey Mityagin (2026). Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks. arXiv:2602.10923. Preprint.
