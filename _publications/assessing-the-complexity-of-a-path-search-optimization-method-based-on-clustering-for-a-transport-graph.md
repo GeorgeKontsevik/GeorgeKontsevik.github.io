@@ -43,6 +43,6 @@ The paper evaluates the method on **more than 750 real-world city graphs** and s
 
 ### Poster presentation
 
-Presented at **Sber AI R&D Day — Poster Session**.
+Presented at **Sber AI R&D Day 2025 — Poster Session**.
 
-<a href="/images/talks/sber-ai-rd-day-poster.png"><img src="/images/talks/sber-ai-rd-day-poster.png" alt="George Kontsevik with a poster on transport pathfinding through graph clustering at Sber AI R&D Day" loading="lazy"></a>
+<a href="/images/talks/sber-ai-rd-day-poster.png"><img src="/images/talks/sber-ai-rd-day-poster.png" alt="George Kontsevik with a poster on transport pathfinding through graph clustering at Sber AI R&D Day 2025" loading="lazy"></a>
