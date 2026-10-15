@@ -1,4 +1,21 @@
 talks:
+  - title: "ICCSA 2024 — Optimal Service Placement"
+    image: "/images/publications/service-placement-time-difference.png"
+    image_alt: "Map of connections coloured by travel-time difference in minutes"
+    description: >-
+      **Enhancing Urban Planning Through Improved Connectivity: A Genetic Algorithm Approach for Optimal Service Placement.**
+      Georgii Kontsevik, Valeria Tikhevich and Sergey Mityagin.
+      [Publication](https://doi.org/10.1007/978-3-031-64605-8_27) ·
+      [Paper details](/publication/enhancing-urban-planning-through-improved-connectivity-a-genetic-algorithm-approach-for-optimal-service-placement/) ·
+      [Code](https://github.com/ValeriyaTikhevich/solver_FLP).
+  - title: "ICCSA 2023 — Spatial Inequality in Agglomeration Planning"
+    image: "/images/publications/spatial-inequality-agglomeration.jpg"
+    image_alt: "Map of cities and intercity connections coloured by city values and route weights"
+    description: >-
+      **Assessment of Spatial Inequality in Agglomeration Planning.**
+      Georgii Kontsevik, Igor Lavrov, Aleksandr Morozov, Leonid Kharlov and Sergey Mityagin.
+      [Publication](https://doi.org/10.1007/978-3-031-36808-0_17) ·
+      [Paper details](/publication/assessment-of-spatial-inequality-in-agglomeration-planning/).
   - title: "Sber AI R&D Day — Poster Session"
     image: "/images/talks/sber-ai-rd-day-poster.png"
     image_alt: "George Kontsevik presenting a poster on graph clustering for transport pathfinding at Sber AI R&D Day"
