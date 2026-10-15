@@ -68,14 +68,15 @@ student_supervision:
       of service accessibility in Arctic transport systems”, published in Applied Network Science (2026).
       [Read the paper](https://doi.org/10.1007/s41109-026-00783-6).
   - title: "Valeria Tikhevich — publications and research award"
-    image: "/images/projects/arctic-network-scheme.png"
-    image_alt: "Environment-framed Arctic transport network model"
+    image: "/images/publications/service-placement-time-difference.png"
+    image_alt: "Map of connections coloured by travel-time difference in minutes"
     description: >-
       Master's student research supervised by George Kontsevik.
       **Publications:** co-authored the [Arctic transport networks paper](https://doi.org/10.1007/s41109-026-00783-6)
       in Applied Network Science (2026), and
       [“Enhancing Urban Planning Through Improved Connectivity: A Genetic Algorithm Approach for Optimal Service Placement”](https://doi.org/10.1007/978-3-031-64605-8_27)
       at ICCSA 2024.
+      [Service placement code — solver_FLP](https://github.com/ValeriyaTikhevich/solver_FLP).
       **Award:** winner of the student research grant competition administered by
       the Saint Petersburg Committee for Science and Higher Education (KNVSh),
       receiving a RUB 50,000 award (approximately USD 500).
