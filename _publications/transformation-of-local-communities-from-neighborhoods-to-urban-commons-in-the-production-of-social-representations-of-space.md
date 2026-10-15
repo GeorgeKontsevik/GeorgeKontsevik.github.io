@@ -35,4 +35,6 @@ The study explores how digital communication shapes hyperlocal and translocal ur
 
 ### Paper and code
 
+**Address extraction model:** [flair-ner-addresses-extractor on Hugging Face](https://huggingface.co/Geor111y/flair-ner-addresses-extractor) extracts addresses from Russian-language texts.
+
 [Read the publication](https://doi.org/10.1007/978-3-031-64608-9_30) · [SOIKA on GitHub](https://github.com/Sandrro/SOIKA) · [Documentation](https://soika.readthedocs.io/ru/latest/)
