@@ -2,10 +2,15 @@
 title: "Enhancing Forecasting in Crisis with Multimodal Federated Learning for Socio-Economic System"
 collection: publications
 category: rejected
+venue: "UAI"
 permalink: /publication/enhancing-forecasting-in-crisis-with-multimodal-federated-learning/
 image: ""
 image_alt: ""
 ---
+
+**Venue:** UAI
+
+**Reason for rejection:** Reviewers found the MFL pipeline unclear and questioned the method’s novelty, lack of technical analysis, and justification for choosing SARIMAX over other forecasting methods.
 
 ## Abstract
 
