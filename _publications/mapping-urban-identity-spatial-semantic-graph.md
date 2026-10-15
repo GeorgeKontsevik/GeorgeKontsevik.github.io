@@ -2,10 +2,15 @@
 title: "Mapping Urban Identity: A Spatial Semantic Graph-Based Approach for Digital Footprint Analysis in Contemporary Sociocultural Contexts"
 collection: publications
 category: rejected
+venue: "ACL"
 permalink: /publication/mapping-urban-identity-spatial-semantic-graph/
 image: ""
 image_alt: ""
 ---
+
+**Venue:** ACL
+
+**Reason for rejection:** Despite its interdisciplinary potential, the paper required substantial revisions to its writing, motivation, problem formulation, method description, comparison with prior work and empirical evaluation to establish its novelty and effectiveness.
 
 ## Abstract
 
