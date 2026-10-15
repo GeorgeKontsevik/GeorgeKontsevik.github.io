@@ -52,3 +52,31 @@ student_supervision:
       **Achievement:** abstract accepted for a poster session at NetSci 2026,
       “Computational Framework for Sustainable Transport Planning on Street Networks”.
       [Acceptance announcement](https://www.linkedin.com/feed/update/urn:li:activity:7429469726227210240/).
+  - title: "Abubakar Ndaman — Kazan OIC Youth Scientific Congress"
+    image: ""
+    image_alt: ""
+    description: >-
+      Research supervised by George Kontsevik.
+      **Achievement:** accepted to present at the Kazan OIC Youth Scientific Congress.
+      [About the congress](https://kazan.oicyouthcapital.com/tpost/8fgp3sc3t1-oic-youth-scientific-congress).
+  - title: "Alina Gubina — Arctic transport networks"
+    image: "/images/projects/arctic-network-scheme.png"
+    image_alt: "Environment-framed Arctic transport network model"
+    description: >-
+      Research supervised by George Kontsevik.
+      **Achievement:** co-authored “Environment-framed networks: seasonal reconfiguration
+      of service accessibility in Arctic transport systems”, published in Applied Network Science (2026).
+      [Read the paper](https://doi.org/10.1007/s41109-026-00783-6).
+  - title: "Valeria Tikhevich — publications and research award"
+    image: "/images/projects/arctic-network-scheme.png"
+    image_alt: "Environment-framed Arctic transport network model"
+    description: >-
+      Master's student research supervised by George Kontsevik.
+      **Publications:** co-authored the [Arctic transport networks paper](https://doi.org/10.1007/s41109-026-00783-6)
+      in Applied Network Science (2026), and
+      [“Enhancing Urban Planning Through Improved Connectivity: A Genetic Algorithm Approach for Optimal Service Placement”](https://doi.org/10.1007/978-3-031-64605-8_27)
+      at ICCSA 2024.
+      **Award:** winner of the student research grant competition administered by
+      the Saint Petersburg Committee for Science and Higher Education (KNVSh),
+      receiving a RUB 50,000 award (approximately USD 500).
+      [Winners list, p. 9, entry 89](https://www.spbume.ru/file/news/7660/P2.pdf#page=9).
