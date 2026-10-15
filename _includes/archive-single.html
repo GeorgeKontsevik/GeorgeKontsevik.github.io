@@ -39,6 +39,9 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {% if post.collection == 'portfolio' %}
+          <p class="page__meta"><strong>Client:</strong> {{ post.client | default: "—" | escape }}</p>
+        {% endif %}
         {% if post.placeholder %}
           <p><em>Work in progress — placeholder</em></p>
         {% elsif post.category == 'unfinished' %}
