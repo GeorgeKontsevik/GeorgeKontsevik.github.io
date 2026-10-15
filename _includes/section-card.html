@@ -2,6 +2,9 @@
   <div class="archive__item-content">
     <h2 class="archive__item-title">{{ include.item.title | escape }}</h2>
     {{ include.item.description | markdownify }}
+    {% if page.permalink == '/talks/' %}
+      <p class="page__meta"><strong>Location:</strong> {{ include.item.location | default: "—" | escape }}</p>
+    {% endif %}
   </div>
   {% include entry-image.html item=include.item %}
 </article>
