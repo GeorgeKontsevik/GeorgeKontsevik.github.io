@@ -1,6 +1,7 @@
 ---
 title: "GeoBooks"
 collection: "portfolio"
+category: unfinished
 permalink: "/project/ideal-broccoli/"
 excerpt: "Extracts characters, places, and movements from books using AI and visualizes them as an interactive spatial graph."
 image: ""
