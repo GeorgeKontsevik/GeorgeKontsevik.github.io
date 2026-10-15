@@ -19,8 +19,8 @@ talks:
       [Post about the student's work](https://www.linkedin.com/feed/update/urn:li:activity:7429469726227210240/).
 teaching:
   - title: "Spatial analysis for urban planning"
-    image: ""
-    image_alt: ""
+    image: "/images/teaching/spatial-analysis-class.png"
+    image_alt: "George Kontsevik teaching at a whiteboard with Python and data imputation examples"
     description: >-
       I developed and taught three cohorts of a master's-level course on spatial analysis in English for urban planning students.
       The course covered raw data processing, spatial analysis, and modeling from the ground up.
