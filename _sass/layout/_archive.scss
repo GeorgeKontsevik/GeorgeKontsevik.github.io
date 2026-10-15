@@ -269,6 +269,10 @@
   border-radius: 6px;
 }
 
+img[src$="/arctic-network-scheme.png"] {
+  background: #fff;
+}
+
 .entry-image__placeholder {
   display: flex;
   align-items: center;
