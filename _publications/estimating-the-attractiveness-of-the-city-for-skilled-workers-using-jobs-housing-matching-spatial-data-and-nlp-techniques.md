@@ -19,3 +19,6 @@ Georgii I. Kontsevik, Nikita N. Zakharenko, Semen A. Budennyy, Sergey A. Mityagi
 
 
 <a href="/images/publications/estimating-attractiveness.png"><img src="/images/publications/estimating-attractiveness.png" alt="Skills, salaries and spatial mismatch assessment for construction engineers in electronics production" loading="lazy"></a>
+
+
+<a href="/images/publications/estimating-attractiveness-framework.png"><img src="/images/publications/estimating-attractiveness-framework.png" alt="Framework connecting work-life satisfaction, jobs-housing matching, housing and commuting conditions" loading="lazy"></a>
