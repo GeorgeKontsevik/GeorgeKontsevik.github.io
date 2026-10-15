@@ -9,10 +9,13 @@ citation: "Georgii I. Kontsevik, Nikita N. Zakharenko, Semen A. Budennyy, Sergey
 source_url: "https://api.crossref.org/works/10.1016/j.procs.2023.12.020"
 collection: "publications"
 permalink: "/publication/estimating-the-attractiveness-of-the-city-for-skilled-workers-using-jobs-housing-matching-spatial-data-and-nlp-techniques/"
-image: ""
-image_alt: ""
+image: "/images/publications/estimating-attractiveness.png"
+image_alt: "Skills word cloud, vacancy salary distribution and map of spatial mismatch for skilled workers"
 ---
 
 Georgii I. Kontsevik, Nikita N. Zakharenko, Semen A. Budennyy, Sergey A. Mityagin (2023). Estimating the attractiveness of the city for skilled workers using jobs-housing matching, spatial data and NLP techniques. Procedia Computer Science, 229, 188-197.
 
 [Read the publication](https://doi.org/10.1016/j.procs.2023.12.020)
+
+
+<a href="/images/publications/estimating-attractiveness.png"><img src="/images/publications/estimating-attractiveness.png" alt="Skills, salaries and spatial mismatch assessment for construction engineers in electronics production" loading="lazy"></a>
