@@ -44,6 +44,8 @@
         {% elsif post.category == 'unfinished' %}
           <p><em>Work in progress</em></p>
           {% if post.collection == 'publications' %}{{ post.excerpt | markdownify }}{% endif %}
+        {% elsif post.category == 'rejected' %}
+          <p><em>Rejected manuscript</em></p>
         {% elsif post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
