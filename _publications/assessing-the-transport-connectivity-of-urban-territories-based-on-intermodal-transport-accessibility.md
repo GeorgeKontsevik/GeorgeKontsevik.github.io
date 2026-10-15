@@ -9,10 +9,12 @@ citation: "Aleksandr S. Morozov, Georgii I. Kontsevik, Irina A. Shmeleva, Lasse 
 source_url: "https://api.crossref.org/works/10.3389/fbuil.2023.1148708"
 collection: "publications"
 permalink: "/publication/assessing-the-transport-connectivity-of-urban-territories-based-on-intermodal-transport-accessibility/"
-image: ""
-image_alt: ""
+image: "/images/publications/frontiers-transport-connectivity.png"
+image_alt: "Colour-coded point representation and corresponding map of Stockholm districts"
 ---
 
 Aleksandr S. Morozov, Georgii I. Kontsevik, Irina A. Shmeleva, Lasse Schneider, Nikita Zakharenko, Semen Budenny, Sergey A. Mityagin (2023). Assessing the transport connectivity of urban territories, based on intermodal transport accessibility. Frontiers in Built Environment, 9, 1148708.
 
 [Read the publication](https://doi.org/10.3389/fbuil.2023.1148708)
+
+<a href="/images/publications/frontiers-transport-connectivity.png"><img src="/images/publications/frontiers-transport-connectivity.png" alt="Colour-coded point representation alongside a map of Stockholm districts" loading="lazy"></a>
