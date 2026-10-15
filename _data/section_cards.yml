@@ -19,7 +19,7 @@ talks:
       Related works: [One Rule to Bring Them All](https://arxiv.org/abs/2602.15053)
       and [Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks](https://arxiv.org/abs/2602.10923).
   - title: "NetSci — multimodal transport routes and urban morphology"
-    image: "/images/talks/netsci-poster-acceptance.jpg"
+    image: "/images/talks/netsci-poster-acceptance.png"
     image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-
       Yana Zorina's poster accepted under joint supervision.
@@ -43,7 +43,7 @@ teaching_assistantships:
       [Course website](https://geopython.su/).
 student_supervision:
   - title: "Yana Zorina — NetSci 2026 poster acceptance"
-    image: "/images/talks/netsci-poster-acceptance.jpg"
+    image: "/images/talks/netsci-poster-acceptance.png"
     image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-
       Joint supervision with Liubov Tupikina of undergraduate student Yana Zorina.
