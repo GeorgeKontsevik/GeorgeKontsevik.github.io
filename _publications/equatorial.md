@@ -1,7 +1,10 @@
 ---
 title: "Equatorial: climate and agricultural accessibility"
-collection: "portfolio"
-permalink: "/project/equatorial/"
+collection: "publications"
+category: unfinished
+permalink: "/publication/equatorial/"
+redirect_from:
+  - /project/equatorial/
 excerpt: "Geospatial analysis of transport, rainfall and agricultural accessibility across the equatorial belt."
 image: "/images/projects/equatorial/equator_country_belt_road_surface_missing_hatched.png"
 image_alt: "Equatorial study area and road-surface and crop-input coverage"

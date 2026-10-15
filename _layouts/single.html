@@ -36,6 +36,8 @@ layout: default
         
         {% if page.placeholder %}
           <p><em>Work in progress — placeholder</em></p>
+        {% elsif page.category == 'unfinished' %}
+          <p><em>Work in progress</em></p>
         {% elsif page.publication_year %}
           <p>{% if page.category == "preprints" %}Preprint on{% else %}Published in{% endif %} <i>{{ page.venue }}</i>, {{ page.publication_year }}</p>
         {% elsif page.collection == 'teaching' %}
