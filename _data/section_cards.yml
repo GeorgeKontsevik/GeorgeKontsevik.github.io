@@ -9,14 +9,14 @@ talks:
       [Paper details](/publication/enhancing-urban-planning-through-improved-connectivity-a-genetic-algorithm-approach-for-optimal-service-placement/) ·
       [Code](https://github.com/ValeriyaTikhevich/solver_FLP).
   - title: "ICCSA 2023 — Spatial Inequality in Agglomeration Planning"
-    image: "/images/talks/iccsa-2023-presentation.png"
-    image_alt: "George Kontsevik presenting spatial inequality research at ICCSA 2023"
+    image: "/images/talks/iccsa-2023-banner.png"
+    image_alt: "George Kontsevik beside the ICCSA 2023 conference banner in Athens"
     description: >-
       **Assessment of Spatial Inequality in Agglomeration Planning.**
       Georgii Kontsevik, Igor Lavrov, Aleksandr Morozov, Leonid Kharlov and Sergey Mityagin.
       [Publication](https://doi.org/10.1007/978-3-031-36808-0_17) ·
       [Paper details](/publication/assessment-of-spatial-inequality-in-agglomeration-planning/).
-      <a href="/images/talks/iccsa-2023-banner.png"><img src="/images/talks/iccsa-2023-banner.png" alt="George Kontsevik beside the ICCSA 2023 conference banner in Athens" loading="lazy" style="max-height: 360px; width: auto;"></a>
+      <a href="/images/talks/iccsa-2023-presentation.png"><img src="/images/talks/iccsa-2023-presentation.png" alt="George Kontsevik presenting spatial inequality research at ICCSA 2023" loading="lazy"></a>
   - title: "Sber AI R&D Day 2025 — Poster Session"
     image: "/images/talks/sber-ai-rd-day-poster.png"
     image_alt: "George Kontsevik presenting a poster on graph clustering for transport pathfinding at Sber AI R&D Day 2025"
