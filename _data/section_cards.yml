@@ -12,8 +12,8 @@ talks:
     description: >-
       [Presentation post](https://www.linkedin.com/feed/update/urn:li:activity:7432402798253879296/).
   - title: "AAAI 2026 — AI for Urban Planning Workshop"
-    image: ""
-    image_alt: ""
+    image: "/images/talks/aaai-2026-workshop.png"
+    image_alt: "George Kontsevik with the Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks poster at AAAI 2026"
     description: >-
       [Workshop post](https://www.linkedin.com/feed/update/urn:li:activity:7425998648720674816/).
       Related works: [One Rule to Bring Them All](https://arxiv.org/abs/2602.15053)
