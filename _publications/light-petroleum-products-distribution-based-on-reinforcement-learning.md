@@ -2,12 +2,17 @@
 title: "Light Petroleum Products Distribution Based on Reinforcement Learning"
 collection: publications
 category: rejected
+venue: "UAI"
 permalink: /publication/light-petroleum-products-distribution-based-on-reinforcement-learning/
 image: ""
 image_alt: ""
 ---
 
 [View on OpenReview](https://openreview.net/forum?id=6u7JBZrWEx)
+
+**Venue:** UAI
+
+**Reason for rejection:** The main concerns were insufficient novelty and research contributions.
 
 ## Abstract
 
