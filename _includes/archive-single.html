@@ -85,6 +85,9 @@
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
 
+    {% if post.award %}
+      <p><i class="fa fa-trophy" aria-hidden="true"></i> <strong>Awards:</strong> <a href="{{ post.award_url }}">{{ post.award }}</a></p>
+    {% endif %}
     </div>
     {% if post.collection == 'publications' or post.collection == 'portfolio' %}
       {% include entry-image.html item=post %}
