@@ -1,4 +1,11 @@
 talks:
+  - title: "Sber AI R&D Day — Poster Session"
+    image: "/images/talks/sber-ai-rd-day-poster.png"
+    image_alt: "George Kontsevik presenting a poster on graph clustering for transport pathfinding at Sber AI R&D Day"
+    description: >-
+      Poster presentation on accelerating transport pathfinding through graph clustering.
+      Related paper: [Assessing the complexity of a path search optimization method based on clustering for a transport graph](https://doi.org/10.1140/epjds/s13688-025-00542-0), EPJ Data Science.
+      [RIDE code](https://github.com/sb-ai-lab/Ride).
   - title: "Segregated by Design — AMS 2026"
     image: "/images/talks/ams-2026.png"
     image_alt: "Presentation at AMS 2026 showing urban blocks and street-pattern classification"
