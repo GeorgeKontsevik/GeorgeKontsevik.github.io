@@ -42,6 +42,8 @@ publication_category:
     title: 'Preprints'
   unfinished:
     title: 'Work in Progress'
+  rejected:
+    title: 'Rejected'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
