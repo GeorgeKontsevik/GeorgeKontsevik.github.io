@@ -1,7 +1,7 @@
 talks:
   - title: "Segregated by Design — AMS 2026"
-    image: ""
-    image_alt: ""
+    image: "/images/talks/ams-2026.png"
+    image_alt: "Presentation at AMS 2026 showing urban blocks and street-pattern classification"
     description: >-
       [Presentation post](https://www.linkedin.com/feed/update/urn:li:activity:7432402798253879296/).
   - title: "AAAI 2026 — AI for Urban Planning Workshop"
