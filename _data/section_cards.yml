@@ -43,10 +43,13 @@ talks:
       and [Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks](https://arxiv.org/abs/2602.10923).
   - title: "NetSci — multimodal transport routes and urban morphology"
     year: 2026
+    location: "Boston, USA"
     image: "/images/talks/netsci-poster-acceptance.png"
     image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-
+      **Format:** Poster presentation (accepted).
       Yana Zorina's poster accepted under joint supervision.
+      I was unable to attend due to a lack of financial support.
 teaching:
   - title: "Spatial analysis for urban planning"
     image: "/images/teaching/spatial-analysis-class.png"
