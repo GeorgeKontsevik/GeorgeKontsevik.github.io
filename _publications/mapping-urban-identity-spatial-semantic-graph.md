@@ -4,8 +4,8 @@ collection: publications
 category: rejected
 venue: "ACL"
 permalink: /publication/mapping-urban-identity-spatial-semantic-graph/
-image: ""
-image_alt: ""
+image: "/images/publications/urban-identity-common-identity-cases.png"
+image_alt: "Spatial semantic graph examples of common urban identity associated with stray cats and fire accidents"
 ---
 
 **Venue:** ACL
