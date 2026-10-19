@@ -52,7 +52,11 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {% if page.image_slot or page.collection == 'publications' or page.collection == 'portfolio' %}
-          {% include entry-image.html item=page %}
+          {% if page.collection == 'publications' and page.category == 'preprints' %}
+            {% include entry-image.html item=page full=true %}
+          {% else %}
+            {% include entry-image.html item=page %}
+          {% endif %}
         {% endif %}
         {{ content }}
 

@@ -290,6 +290,18 @@ img[src$="/arctic-network-scheme.png"] {
   margin: 0 0 20px 24px;
 }
 
+.page__content > .entry-image--full {
+  float: none;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 0 24px;
+}
+
+.entry-image--full img {
+  aspect-ratio: auto;
+  max-height: none;
+}
+
 .page__content::after {
   content: "";
   display: block;
