@@ -4,8 +4,8 @@ collection: publications
 category: rejected
 venue: "UAI; Annals of Operations Research"
 permalink: /publication/light-petroleum-products-distribution-based-on-reinforcement-learning/
-image: ""
-image_alt: ""
+image: "/images/publications/petroleum-distribution-route-and-capacities.png"
+image_alt: "Fuel delivery route between a depot and five stations alongside station capacity levels over time"
 ---
 
 [View on OpenReview](https://openreview.net/forum?id=6u7JBZrWEx)
