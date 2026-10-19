@@ -3,6 +3,6 @@
   {% if item.image and item.image != "" %}
     <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}" loading="lazy">
   {% else %}
-    <div class="entry-image__placeholder"><span>Image pending</span></div>
+    <div class="entry-image__placeholder"><span>{% if item.client == "NDA" %}NDA{% else %}Image pending{% endif %}</span></div>
   {% endif %}
 </aside>
