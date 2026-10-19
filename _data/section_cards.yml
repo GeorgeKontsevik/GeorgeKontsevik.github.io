@@ -35,6 +35,7 @@ talks:
     description: ""
   - title: "AAAI 2026 — AI for Urban Planning Workshop"
     year: 2026
+    location: "Singapore"
     image: "/images/talks/aaai-2026-workshop.png"
     image_alt: "George Kontsevik with the Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks poster at AAAI 2026"
     description: >-
