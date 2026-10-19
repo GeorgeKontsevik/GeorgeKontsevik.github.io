@@ -1,6 +1,24 @@
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
+> This repository is George Kontsevik’s live site: <https://georgekontsevik.github.io/>. The template documentation below is retained for technical reference.
+
+## Instructions for agents
+
+Read the root [AGENTS.md](AGENTS.md) before editing. It provides the current content conventions, rendering map, and release procedure. Then read the nearest `AGENTS.md` in the directory you will change; those local guides give the required context without loading the entire repository.
+
+| What appears on the site | Where to edit |
+| --- | --- |
+| Biography, navigation and global settings | `_config.yml`, `_data/authors.yml`, `_data/navigation.yml` |
+| Home, Projects, Publications, Talks, Teaching and CV pages | `_pages/` |
+| Projects | `_portfolio/` |
+| Publication records and research in progress | `_publications/` |
+| Teaching, supervision and talks cards | `_data/section_cards.yml` |
+| Images and downloadable documents | `images/`, `files/` |
+| Card behaviour and visual components | `_includes/`, `_layouts/`, `_sass/`, `assets/` |
+
+Keep edits small and evidence-based. Preserve existing permalinks and front matter. Write public content in English unless asked otherwise, provide accessible `image_alt` text for new images, and never add LinkedIn feed-post links. Use `category: unfinished` for projects or publications that should remain visible as work in progress.
+
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
 # Getting Started
