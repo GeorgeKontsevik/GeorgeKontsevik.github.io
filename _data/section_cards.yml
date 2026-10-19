@@ -1,5 +1,6 @@
 talks:
   - title: "ICCSA 2024 — Optimal Service Placement"
+    year: 2024
     image: "/images/publications/service-placement-time-difference.png"
     image_alt: "Map of connections coloured by travel-time difference in minutes"
     description: >-
@@ -9,6 +10,7 @@ talks:
       [Paper details](/publication/enhancing-urban-planning-through-improved-connectivity-a-genetic-algorithm-approach-for-optimal-service-placement/) ·
       [Code](https://github.com/ValeriyaTikhevich/solver_FLP).
   - title: "ICCSA 2023 — Spatial Inequality in Agglomeration Planning"
+    year: 2023
     location: "Athens, Greece"
     image: "/images/talks/iccsa-2023-presentation.png"
     image_alt: "George Kontsevik presenting spatial inequality research at ICCSA 2023"
@@ -18,6 +20,7 @@ talks:
       [Publication](https://doi.org/10.1007/978-3-031-36808-0_17) ·
       [Paper details](/publication/assessment-of-spatial-inequality-in-agglomeration-planning/).
   - title: "Sber AI R&D Day 2025 — Poster Session"
+    year: 2025
     image: "/images/talks/sber-ai-rd-day-poster.png"
     image_alt: "George Kontsevik presenting a poster on graph clustering for transport pathfinding at Sber AI R&D Day 2025"
     description: >-
@@ -25,16 +28,19 @@ talks:
       Related paper: [Assessing the complexity of a path search optimization method based on clustering for a transport graph](https://doi.org/10.1140/epjds/s13688-025-00542-0), EPJ Data Science.
       [RIDE code](https://github.com/sb-ai-lab/Ride).
   - title: "Segregated by Design — AMS 2026"
+    year: 2026
     image: "/images/talks/ams-2026.png"
     image_alt: "Presentation at AMS 2026 showing urban blocks and street-pattern classification"
     description: ""
   - title: "AAAI 2026 — AI for Urban Planning Workshop"
+    year: 2026
     image: "/images/talks/aaai-2026-workshop.png"
     image_alt: "George Kontsevik with the Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks poster at AAAI 2026"
     description: >-
       Related works: [One Rule to Bring Them All](https://arxiv.org/abs/2602.15053)
       and [Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks](https://arxiv.org/abs/2602.10923).
   - title: "NetSci — multimodal transport routes and urban morphology"
+    year: 2026
     image: "/images/talks/netsci-poster-acceptance.png"
     image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-

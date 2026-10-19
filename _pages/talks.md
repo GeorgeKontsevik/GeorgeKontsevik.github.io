@@ -5,8 +5,10 @@ layout: single
 author_profile: true
 ---
 
-## 2026
-
-{% for item in site.data.section_cards.talks %}
+{% assign talks_by_year = site.data.section_cards.talks | group_by: "year" | sort: "name" | reverse %}
+{% for year in talks_by_year %}
+<h2>{{ year.name }}</h2>
+{% for item in year.items %}
   {% include section-card.html item=item %}
+{% endfor %}
 {% endfor %}
