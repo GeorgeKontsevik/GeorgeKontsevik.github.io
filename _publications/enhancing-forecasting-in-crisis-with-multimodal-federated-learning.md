@@ -4,8 +4,8 @@ collection: publications
 category: rejected
 venue: "UAI"
 permalink: /publication/enhancing-forecasting-in-crisis-with-multimodal-federated-learning/
-image: ""
-image_alt: ""
+image: "/images/publications/multimodal-federated-learning-system.png"
+image_alt: "Diagram of the multimodal federated learning system with three clients, a global meta-model, and prediction outputs"
 ---
 
 **Venue:** UAI
