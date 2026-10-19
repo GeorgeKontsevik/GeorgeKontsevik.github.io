@@ -59,6 +59,22 @@ teaching:
     description: >-
       I developed and taught three cohorts of a master's-level course on spatial analysis in English for urban planning students.
       The course covered raw data processing, spatial analysis, and modeling from the ground up.
+  - title: "Urban Data Science — Autumn 2025"
+    image: "/images/teaching/spatial-analysis-class.png"
+    image_alt: "George Kontsevik teaching urban data science"
+    description: >-
+      **Course feedback:** all 3 respondents rated both teaching satisfaction and professional usefulness 5/5.
+      “The practical orientation of the course and exposure to modern tools and methods used in urban analytics
+      helped bridge theory with hands-on implementation.”
+      Students highlighted work with OpenStreetMap, network metrics, Python analysis, reproducible workflows,
+      and the city-planning simulation.
+  - title: "Python Programming Language for Urban Studies — Spring 2025"
+    image: "/images/teaching/spatial-analysis-class.png"
+    image_alt: "George Kontsevik teaching Python for urban studies"
+    description: >-
+      **Course feedback:** all 3 respondents rated both teaching satisfaction and professional usefulness 5/5.
+      “The interactive approach to addressing challenges faced by students was especially effective for such a practical subject.”
+      Another student noted the focus on urban-analysis tools and techniques tailored to individual research.
 teaching_assistantships:
   - title: "Spatial Analysis in Python — Inessa Tregubova"
     image: ""
