@@ -29,6 +29,7 @@ talks:
       [RIDE code](https://github.com/sb-ai-lab/Ride).
   - title: "Segregated by Design — AMS 2026"
     year: 2026
+    location: "Amsterdam, Netherlands"
     image: "/images/talks/ams-2026.png"
     image_alt: "Presentation at AMS 2026 showing urban blocks and street-pattern classification"
     description: ""
