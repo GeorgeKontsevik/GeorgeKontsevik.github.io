@@ -9,8 +9,8 @@ citation: "Aleksandr Antonov, Galina Gornova, Georgii Kontsevik, Leonid Turkov, 
 source_url: "https://api.crossref.org/works/10.1007/978-3-031-64608-9_30"
 collection: "publications"
 permalink: "/publication/transformation-of-local-communities-from-neighborhoods-to-urban-commons-in-the-production-of-social-representations-of-space/"
-image: "/images/publications/urban-commons-soika-scheme.png"
-image_alt: "SOIKA workflow from social-media text and OpenStreetMap data to a spatial-semantic graph"
+image: "/images/publications/urban-commons-soika-graph.png"
+image_alt: "Spatial-semantic graph connecting urban place names and concepts extracted from text"
 ---
 
 Aleksandr Antonov, Galina Gornova, Georgii Kontsevik, Leonid Turkov, Vladimir Vorona, Sergey Mityagin (2024). Transformation of Local Communities from Neighborhoods to Urban Commons in the Production of Social Representations of Space. Computational Science and Its Applications – ICCSA 2024, 436-447.
