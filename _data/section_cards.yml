@@ -1,6 +1,7 @@
 talks:
   - title: "ICCSA 2024 — Optimal Service Placement"
     year: 2024
+    location: "Vietnam — remote / online"
     image: "/images/publications/service-placement-time-difference.png"
     image_alt: "Map of connections coloured by travel-time difference in minutes"
     description: >-
