@@ -42,9 +42,7 @@
         {% if post.collection == 'portfolio' %}
           <p class="page__meta"><strong>Client:</strong> {{ post.client | default: "—" | escape }}</p>
         {% endif %}
-        {% if post.placeholder %}
-          <p><em>Work in progress — placeholder</em></p>
-        {% elsif post.category == 'unfinished' %}
+        {% if post.category == 'unfinished' %}
           <p><em>Work in progress</em></p>
           {% if post.collection == 'publications' %}{{ post.excerpt | markdownify }}{% endif %}
         {% elsif post.category == 'rejected' %}
