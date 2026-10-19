@@ -27,13 +27,11 @@ talks:
   - title: "Segregated by Design — AMS 2026"
     image: "/images/talks/ams-2026.png"
     image_alt: "Presentation at AMS 2026 showing urban blocks and street-pattern classification"
-    description: >-
-      [Presentation post](https://www.linkedin.com/feed/update/urn:li:activity:7432402798253879296/).
+    description: ""
   - title: "AAAI 2026 — AI for Urban Planning Workshop"
     image: "/images/talks/aaai-2026-workshop.png"
     image_alt: "George Kontsevik with the Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks poster at AAAI 2026"
     description: >-
-      [Workshop post](https://www.linkedin.com/feed/update/urn:li:activity:7425998648720674816/).
       Related works: [One Rule to Bring Them All](https://arxiv.org/abs/2602.15053)
       and [Spatial-Morphological Modeling for Multi-Attribute Imputation of Urban Blocks](https://arxiv.org/abs/2602.10923).
   - title: "NetSci — multimodal transport routes and urban morphology"
@@ -41,7 +39,6 @@ talks:
     image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-
       Yana Zorina's poster accepted under joint supervision.
-      [Post about the student's work](https://www.linkedin.com/feed/update/urn:li:activity:7429469726227210240/).
 teaching:
   - title: "Spatial analysis for urban planning"
     image: "/images/teaching/spatial-analysis-class.png"
@@ -49,7 +46,6 @@ teaching:
     description: >-
       I developed and taught three cohorts of a master's-level course on spatial analysis in English for urban planning students.
       The course covered raw data processing, spatial analysis, and modeling from the ground up.
-      [Urban Data Science course post](https://www.linkedin.com/feed/update/urn:li:activity:7253813029811765248/).
 teaching_assistantships:
   - title: "Spatial Analysis in Python — Inessa Tregubova"
     image: ""
@@ -69,7 +65,6 @@ student_supervision:
       that incorporates urban morphology into routing and mode choice.
       **Achievement:** abstract accepted for a poster session at NetSci 2026,
       “Computational Framework for Sustainable Transport Planning on Street Networks”.
-      [Acceptance announcement](https://www.linkedin.com/feed/update/urn:li:activity:7429469726227210240/).
   - title: "Abubakar Ndaman — Kazan OIC Youth Scientific Congress"
     image: ""
     image_alt: ""

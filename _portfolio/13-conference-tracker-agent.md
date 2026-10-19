@@ -9,4 +9,4 @@ image_alt: "Conference tracker spreadsheet with rankings, submission deadlines a
 
 Tools for building review tabs in Google Sheets, finding conference-year evidence, and supporting human verification.
 
-[Project post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7480686326397390848/) · [GitHub repository](https://github.com/GeorgeKontsevik/conference-tracker-agent)
+[GitHub repository](https://github.com/GeorgeKontsevik/conference-tracker-agent)
