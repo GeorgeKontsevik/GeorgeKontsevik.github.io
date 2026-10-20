@@ -246,7 +246,7 @@
 /* Article and project previews with an editable image slot. */
 .archive__item--with-image {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 180px;
+  grid-template-columns: minmax(0, 1fr) 360px;
   gap: 24px;
   align-items: start;
   margin-bottom: 2em;
@@ -258,7 +258,8 @@
 
 .entry-image {
   margin-top: 1em;
-  width: 180px;
+  width: 360px;
+  max-width: 100%;
 }
 
 .entry-image img {
@@ -266,6 +267,14 @@
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: contain;
+  border-radius: 6px;
+}
+
+.entry-image iframe {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
   border-radius: 6px;
 }
 
@@ -308,7 +317,7 @@ img[src$="/arctic-network-scheme.png"] {
   clear: both;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
   .archive__item--with-image {
     grid-template-columns: minmax(0, 1fr);
     gap: 0;
