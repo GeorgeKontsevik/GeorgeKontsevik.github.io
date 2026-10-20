@@ -2,9 +2,6 @@
   <div class="archive__item-content">
     <h2 class="archive__item-title">{{ include.item.title | escape }}</h2>
     {{ include.item.description | markdownify }}
-    {% if include.item.youtube_id %}
-      <iframe src="https://www.youtube-nocookie.com/embed/{{ include.item.youtube_id | escape }}" title="{{ include.item.title | escape }}" loading="lazy" style="width:100%; aspect-ratio:16/9; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    {% endif %}
     {% if page.permalink == '/talks/' %}
       <p class="page__meta"><strong>Location:</strong> {{ include.item.location | default: "—" | escape }}</p>
     {% endif %}
