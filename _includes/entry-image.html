@@ -1,6 +1,8 @@
 {% assign item = include.item %}
 <aside class="entry-image{% if include.full %} entry-image--full{% endif %}" aria-label="Image for {{ item.title | escape }}">
-  {% if item.image and item.image != "" %}
+  {% if item.youtube_id %}
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ item.youtube_id | escape }}" title="{{ item.title | escape }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {% elsif item.image and item.image != "" %}
     <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}" loading="lazy">
   {% else %}
     <div class="entry-image__placeholder"><span>{% if item.client == "NDA" %}NDA{% else %}Image pending{% endif %}</span></div>
