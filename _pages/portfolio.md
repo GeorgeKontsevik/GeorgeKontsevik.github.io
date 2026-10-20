@@ -9,7 +9,7 @@ Selected projects, public tools and research materials.
 
 {% include base_path %}
 {% for post in site.portfolio %}
-  {% unless post.category == 'unfinished' %}
+  {% unless post.category == 'unfinished' or post.client == 'NDA' %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
@@ -18,6 +18,16 @@ Selected projects, public tools and research materials.
 {% if unfinished_projects.size > 0 %}
   <h2>Work in Progress</h2>
   {% for post in unfinished_projects %}
+    {% unless post.client == 'NDA' %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+{% endif %}
+
+{% assign nda_projects = site.portfolio | where: "client", "NDA" %}
+{% if nda_projects.size > 0 %}
+  <h2>NDA Projects</h2>
+  {% for post in nda_projects %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
