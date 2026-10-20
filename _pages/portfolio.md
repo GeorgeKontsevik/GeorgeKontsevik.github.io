@@ -9,7 +9,7 @@ Selected projects, public tools and research materials.
 
 {% include base_path %}
 {% for post in site.portfolio %}
-  {% unless post.category == 'unfinished' or post.client == 'NDA' %}
+  {% unless post.category == 'unfinished' or post.category == 'pet' or post.client == 'NDA' %}
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
@@ -21,6 +21,14 @@ Selected projects, public tools and research materials.
     {% unless post.client == 'NDA' %}
       {% include archive-single.html %}
     {% endunless %}
+  {% endfor %}
+{% endif %}
+
+{% assign pet_projects = site.portfolio | where: "category", "pet" %}
+{% if pet_projects.size > 0 %}
+  <h2>Pet Projects</h2>
+  {% for post in pet_projects %}
+    {% include archive-single.html %}
   {% endfor %}
 {% endif %}
 
