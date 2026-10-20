@@ -1,4 +1,12 @@
 talks:
+  - title: "ITMO R&D Day — IDU Research"
+    year: "Undated"
+    image: ""
+    image_alt: ""
+    description: >-
+      [Watch the recording on YouTube](https://youtu.be/SywvEdvnpeg) ·
+      [Post about the talk](https://t.me/geogeorge_ch/1189).
+      <iframe src="https://www.youtube-nocookie.com/embed/SywvEdvnpeg" title="ITMO R&D Day — IDU Research" loading="lazy" style="width:100%; aspect-ratio:16/9; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   - title: "ICCSA 2024 — Optimal Service Placement"
     year: 2024
     location: "Vietnam — remote / online"
