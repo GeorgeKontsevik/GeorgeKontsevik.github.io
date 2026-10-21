@@ -97,14 +97,20 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "george-kontsevik.jpg" # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "George Kontsevik"
+  alternate_names:
+    - "Georgii Kontsevik"
+    - "Georgii I. Kontsevik"
+  links:
+    - "https://github.com/GeorgeKontsevik"
+    - "https://www.linkedin.com/in/george-kontsevik"
+    - "https://scholar.google.com/citations?user=S--bTg8AAAAJ&hl=en"
 
 
 # Analytics

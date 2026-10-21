@@ -1,5 +1,7 @@
 ---
-title: "Data Scientist (Geospatial)"
+title: "George Kontsevik — Data Scientist (Geospatial)"
+seo_title: "George Kontsevik — Data Scientist (Geospatial)"
+description: "George Kontsevik is a geospatial data scientist with 5+ years of experience in spatial analysis, predictive modeling, transport networks and urban services."
 permalink: /
 layout: single
 author_profile: true

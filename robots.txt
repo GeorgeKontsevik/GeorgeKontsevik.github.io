@@ -1,0 +1,12 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap: false
+---
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
