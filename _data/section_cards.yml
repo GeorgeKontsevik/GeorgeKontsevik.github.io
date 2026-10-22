@@ -8,17 +8,6 @@ talks:
     description: >-
       [Watch the recording on YouTube](https://youtu.be/SywvEdvnpeg) ·
       [Post about the talk](https://t.me/geogeorge_ch/1189).
-  - title: "ICCSA 2024 — Optimal Service Placement"
-    year: 2024
-    location: "Vietnam — remote / online"
-    image: "/images/publications/service-placement-time-difference.png"
-    image_alt: "Map of connections coloured by travel-time difference in minutes"
-    description: >-
-      **Enhancing Urban Planning Through Improved Connectivity: A Genetic Algorithm Approach for Optimal Service Placement.**
-      Georgii Kontsevik, Valeria Tikhevich and Sergey Mityagin.
-      [Publication](https://doi.org/10.1007/978-3-031-64605-8_27) ·
-      [Paper details](/publication/enhancing-urban-planning-through-improved-connectivity-a-genetic-algorithm-approach-for-optimal-service-placement/) ·
-      [Code](https://github.com/ValeriyaTikhevich/solver_FLP).
   - title: "ICCSA 2023 — Spatial Inequality in Agglomeration Planning"
     year: 2023
     location: "Athens, Greece"
