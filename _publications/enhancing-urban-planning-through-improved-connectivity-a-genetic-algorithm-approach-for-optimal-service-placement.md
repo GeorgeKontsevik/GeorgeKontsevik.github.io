@@ -2,7 +2,7 @@
 title: "Enhancing Urban Planning Through Improved Connectivity: A Genetic Algorithm Approach for Optimal Service Placement"
 authors: "Georgii Kontsevik, Valeria Tikhevich, Sergey Mityagin"
 publication_year: 2024
-venue: "Computational Science and Its Applications – ICCSA 2024"
+venue: "Lecture Notes in Computer Science (Springer), vol. 14813"
 conference: "International Conference on Computational Science and Its Applications (ICCSA 2024), Hanoi, Vietnam"
 category: "conferences"
 publication_url: "https://doi.org/10.1007/978-3-031-64605-8_27"

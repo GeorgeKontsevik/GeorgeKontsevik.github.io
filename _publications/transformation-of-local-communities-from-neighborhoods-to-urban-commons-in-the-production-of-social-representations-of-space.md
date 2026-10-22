@@ -2,7 +2,7 @@
 title: "Transformation of Local Communities from Neighborhoods to Urban Commons in the Production of Social Representations of Space"
 authors: "Aleksandr Antonov, Galina Gornova, Georgii Kontsevik, Leonid Turkov, Vladimir Vorona, Sergey Mityagin"
 publication_year: 2024
-venue: "Computational Science and Its Applications – ICCSA 2024"
+venue: "Lecture Notes in Computer Science (Springer), vol. 14814"
 conference: "International Conference on Computational Science and Its Applications (ICCSA 2024), Hanoi, Vietnam"
 category: "conferences"
 publication_url: "https://doi.org/10.1007/978-3-031-64608-9_30"

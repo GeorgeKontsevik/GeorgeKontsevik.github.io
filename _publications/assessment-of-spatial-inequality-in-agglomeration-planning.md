@@ -2,7 +2,7 @@
 title: "Assessment of Spatial Inequality in Agglomeration Planning"
 authors: "Georgii Kontsevik, Igor Lavrov, Aleksandr Morozov, Leonid Kharlov, Sergey Mityagin"
 publication_year: 2023
-venue: "Computational Science and Its Applications – ICCSA 2023"
+venue: "Lecture Notes in Computer Science (Springer), vol. 13957"
 conference: "International Conference on Computational Science and Its Applications (ICCSA 2023), Athens, Greece"
 category: "conferences"
 publication_url: "https://doi.org/10.1007/978-3-031-36808-0_17"
