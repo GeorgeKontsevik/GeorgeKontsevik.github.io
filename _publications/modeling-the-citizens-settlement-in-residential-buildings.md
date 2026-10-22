@@ -3,6 +3,7 @@ title: "Modeling the citizens' settlement in residential buildings"
 authors: "Georgii Kontsevik, Aleksei Sokol, Yuri Bogomolov, Vladislav P. Evstigneev, Sergey A. Mityagin"
 publication_year: 2022
 venue: "Procedia Computer Science"
+conference: "YSC (Young Scientists Conference), ITMO University, St. Petersburg, Russia"
 category: "conferences"
 publication_url: "https://doi.org/10.1016/j.procs.2022.10.207"
 citation: "Georgii Kontsevik, Aleksei Sokol, Yuri Bogomolov, Vladislav P. Evstigneev, Sergey A. Mityagin (2022). Modeling the citizens' settlement in residential buildings. Procedia Computer Science, 212, 51-63."
