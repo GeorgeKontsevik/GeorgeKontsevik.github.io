@@ -39,7 +39,7 @@ layout: default
         {% elsif page.category == 'rejected' %}
           <p><em>Rejected manuscript</em></p>
         {% elsif page.publication_year %}
-          <p>{% if page.category == "preprints" %}Preprint on{% else %}Published in{% endif %} <i>{{ page.venue }}</i>, {{ page.publication_year }}</p>
+          <p>{% if page.publication_status == "preprint" %}Preprint{% else %}{% if page.category == "preprints" %}Preprint on{% else %}Published in{% endif %} <i>{{ page.venue }}</i>, {{ page.publication_year }}{% endif %}</p>
         {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
