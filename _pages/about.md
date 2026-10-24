@@ -5,7 +5,7 @@ description: "George Kontsevik is a geospatial data scientist working on spatial
 permalink: /
 layout: single
 author_profile: true
-image_slot: true
+image_slot: false
 image: ""
 image_alt: ""
 ---
