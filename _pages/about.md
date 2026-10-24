@@ -12,7 +12,7 @@ image_alt: ""
 
 I am George Kontsevik, a Data Scientist (Geospatial) with experience in applied research, product analytics, and GIS development. I work on spatial machine learning, transport networks, routing optimization, and predictive modeling.
 
-Most recently, I worked as an Applied Scientist at the Urban Analytics Lab, ITMO University, from September 2024 to August 2026. My work included graph-based courier routing, analysis of 32 spatial networks and 200 GB of spatiotemporal data, and graph neural network and spatial-statistical methods for reconstructing missing building data.
+Most recently, I worked as an Applied Scientist at the Urban Analytics Lab, ITMO University, from September 2024 to August 2026. My work included graph-based courier routing and graph neural network and spatial-statistical methods for reconstructing missing building data.
 
 Previously, I worked as an independent Data Scientist, a Product Analyst at TatraDev, and a freelance GIS Developer. My projects span retail revenue forecasting, LLM-assisted consumer research, H3-based home-location inference, spatial embeddings, and public-service accessibility.
 
