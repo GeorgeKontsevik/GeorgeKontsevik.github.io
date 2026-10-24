@@ -24,5 +24,14 @@ My toolkit includes Python, SQL, PyTorch, CatBoost, GeoPandas, PostGIS, NetworkX
 
 ## Research
 
-I have authored or co-authored 12 scientific publications, including work in EPJ Data Science and Applied Network Science, and presented the lab’s research at the AI for Urban Planning Workshop at AAAI 2026. My publications cover transport connectivity, seasonal service accessibility in the Arctic, urban blocks, building-level population modeling, and spatial inequality. Publication records use the author names as they appear in the original works, including Georgii Kontsevik and Georgii I. Kontsevik.
+My research interests lie at the intersection of network science, geospatial analysis, and decision support for territorial planning. I study how people reach essential services, such as clinics and schools, when transport accessibility changes with the seasons, weather, and network configuration. My central question is how to plan service locations and transport connections together so that access remains reliable under changing conditions.
 
+I have developed network-based methods to assess seasonal accessibility and support service-location decisions. This work connects road and public transport networks with the locations of people and services, accounting for travel-time limits, service capacity, and environmental conditions. I examined rainfall-related deterioration of unpaved roads and temperature-driven reconfiguration of Arctic transport networks. In parallel, I explored genetic algorithms and public transport route generation for service placement, including a redevelopment case in St. Petersburg.
+
+A central finding is that accessibility depends on the interaction between network structure, the distribution of demand and services, and environmental conditions. Seasonal changes can redistribute flows and change which services people can reach within a given time. The planning experiments also show that improving transport connections can complement new facilities and, under the modeled conditions, reduce the number of additional facilities needed. This makes accessibility a shared outcome of land-use and transport planning, with attention to how reliably it is maintained over time.
+
+Building on initial experiments with heat stress and walking access, I want to bring environmental variability and joint network-and-service optimization into a single decision-support framework. I am interested in comparing where a new facility, a new public transport route, or an improved connection would make the greatest difference, and identifying plans that maintain access across seasonal and weather scenarios.
+
+Related work appears in Applied Network Science, ICCSA proceedings, and the AI for Urban Planning Workshop at AAAI 2026. My broader research also covers urban blocks, building-level population modeling, and spatial inequality. Publication records also use the names Georgii Kontsevik and Georgii I. Kontsevik.
+
+[Explore my publications](/publications/)
