@@ -15,4 +15,4 @@ For a selected city, the tool uses a CatBoost model and Optuna to explore change
 
 [View Planter on GitHub](https://github.com/GeorgeKontsevik/planter)
 
-Work completed at the ITMO Institute of Design and Urban Studies, September 2021–August 2026.
+Work completed as part of independent contract work, September 2023–August 2024.
