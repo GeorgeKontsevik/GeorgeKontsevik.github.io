@@ -1,10 +1,12 @@
-{% assign item = include.item %}
+{%- assign item = include.item -%}
+{%- assign image = item.image | default: "" | strip -%}
+{%- assign youtube_id = item.youtube_id | default: "" | strip -%}
+{%- if youtube_id != "" or image != "" -%}
 <aside class="entry-image{% if include.full %} entry-image--full{% endif %}" aria-label="Image for {{ item.title | escape }}">
-  {% if item.youtube_id %}
-    <iframe src="https://www.youtube-nocookie.com/embed/{{ item.youtube_id | escape }}" title="{{ item.title | escape }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  {% elsif item.image and item.image != "" %}
-    <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}" loading="lazy">
+  {% if youtube_id != "" %}
+    <iframe src="https://www.youtube-nocookie.com/embed/{{ youtube_id | escape }}" title="{{ item.title | escape }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   {% else %}
-    <div class="entry-image__placeholder"><span>{% if item.client == "NDA" %}NDA{% else %}Image pending{% endif %}</span></div>
+    <img src="{{ image | relative_url }}" alt="{{ item.image_alt | default: item.title | escape }}" loading="lazy">
   {% endif %}
 </aside>
+{%- endif -%}

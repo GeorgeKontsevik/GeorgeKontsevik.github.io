@@ -243,7 +243,7 @@
     }
   }
 }
-/* Article and project previews with an editable image slot. */
+/* Article and project previews with an image or video. */
 .archive__item--with-image {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 360px;
@@ -280,18 +280,6 @@
 
 img[src$="/arctic-network-scheme.png"] {
   background: #fff;
-}
-
-.entry-image__placeholder {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  aspect-ratio: 4 / 3;
-  border: 1px dashed var(--global-border-color);
-  border-radius: 6px;
-  color: var(--global-text-color-light);
-  font-size: 0.8em;
-  font-style: italic;
 }
 
 .page__content > .entry-image {

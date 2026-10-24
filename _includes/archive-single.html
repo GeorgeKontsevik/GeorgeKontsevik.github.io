@@ -12,8 +12,14 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign entry_image = "" %}
+{% if post.collection == 'publications' or post.collection == 'portfolio' %}
+  {% capture entry_image %}{% include entry-image.html item=post %}{% endcapture %}
+  {% assign entry_image = entry_image | strip %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item{% if post.collection == 'publications' or post.collection == 'portfolio' %} archive__item--with-image{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive__item{% if entry_image != "" %} archive__item--with-image{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="archive__item-content">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -99,8 +105,6 @@
       <p><i class="fa fa-trophy" aria-hidden="true"></i> <strong>Awards:</strong> {% if post.award_url %}<a href="{{ post.award_url }}">{{ post.award }}</a>{% else %}{{ post.award }}{% endif %}</p>
     {% endif %}
     </div>
-    {% if post.collection == 'publications' or post.collection == 'portfolio' %}
-      {% include entry-image.html item=post %}
-    {% endif %}
+    {{ entry_image }}
   </article>
 </div>

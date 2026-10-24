@@ -1,4 +1,6 @@
-<article class="archive__item archive__item--with-image">
+{% capture entry_image %}{% include entry-image.html item=include.item %}{% endcapture %}
+{% assign entry_image = entry_image | strip %}
+<article class="archive__item{% if entry_image != "" %} archive__item--with-image{% endif %}">
   <div class="archive__item-content">
     <h2 class="archive__item-title">{{ include.item.title | escape }}</h2>
     {{ include.item.description | markdownify }}
@@ -6,5 +8,5 @@
       <p class="page__meta"><strong>Location:</strong> {{ include.item.location | default: "—" | escape }}</p>
     {% endif %}
   </div>
-  {% include entry-image.html item=include.item %}
+  {{ entry_image }}
 </article>

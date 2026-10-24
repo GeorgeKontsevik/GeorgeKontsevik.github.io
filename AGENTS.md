@@ -25,7 +25,7 @@ Each working directory has a short local `AGENTS.md`; read it before changing fi
 - Keep public-facing copy in English unless the user explicitly requests another language.
 - Preserve front matter keys, permalinks, and collection names. Use `category: unfinished` for a work-in-progress item; it is displayed separately on Projects and Publications pages.
 - Use site-relative paths for local assets, for example `/images/projects/example.png`.
-- Add `image_alt` to new content that has an image. The shared fallback shows `NDA` when `client: NDA`; otherwise it says `Image pending`.
+- Add `image_alt` to new content that has an image. Omit the media block and reserved column when neither an image nor a video is provided.
 - Talks and teaching cards live in `_data/section_cards.yml`. Talks require a four-digit `year`; `_pages/talks.md` groups and sorts them by it.
 - Do not add LinkedIn feed-post links. The author profile link is allowed.
 
