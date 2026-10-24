@@ -32,6 +32,8 @@ A central finding is that accessibility depends on the interaction between netwo
 
 Building on initial experiments with heat stress and walking access, I want to bring environmental variability and joint network-and-service optimization into a single decision-support framework. I am interested in comparing where a new facility, a new public transport route, or an improved connection would make the greatest difference, and identifying plans that maintain access across seasonal and weather scenarios.
 
-Related work appears in Applied Network Science, ICCSA proceedings, and the AI for Urban Planning Workshop at AAAI 2026. My broader research also covers urban blocks, building-level population modeling, and spatial inequality. Publication records also use the names Georgii Kontsevik and Georgii I. Kontsevik.
+These findings have led me to a hypothesis: the way a city has developed historically may set limits on how far a particular intervention can improve access to services. Its inherited urban form, street network, and distribution of services may shape both the effectiveness and the limits of tools such as new public transport routes, road connections, or additional facilities. I want to investigate where these limits lie and when further improvements in accessibility require a different planning approach.
+
+Publication records also use the names Georgii Kontsevik and Georgii I. Kontsevik.
 
 [Explore my publications](/publications/)
