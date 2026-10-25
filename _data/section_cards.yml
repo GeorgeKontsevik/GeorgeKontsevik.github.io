@@ -71,8 +71,6 @@ teaching_assistantships:
       [Course website](https://geopython.su/).
 student_supervision:
   - title: "Yana Zorina — NetSci 2026 poster acceptance"
-    image: "/images/talks/netsci-poster-acceptance.png"
-    image_alt: "NetSci 2026 poster acceptance for Computational Framework for Sustainable Transport Planning on Street Networks"
     description: >-
       Joint supervision with Liubov Tupikina of undergraduate student Yana Zorina.
       Her work develops a framework for multimodal transport route modelling
@@ -80,23 +78,17 @@ student_supervision:
       **Achievement:** abstract accepted for a poster session at NetSci 2026,
       “Computational Framework for Sustainable Transport Planning on Street Networks”.
   - title: "Abubakar Ndaman — Kazan OIC Youth Scientific Congress"
-    image: ""
-    image_alt: ""
     description: >-
       Research supervised by George Kontsevik.
       **Achievement:** accepted to present at the Kazan OIC Youth Scientific Congress.
       [About the congress](https://kazan.oicyouthcapital.com/tpost/8fgp3sc3t1-oic-youth-scientific-congress).
   - title: "Alina Gubina — Arctic transport networks"
-    image: "/images/projects/arctic-network-scheme.png"
-    image_alt: "Environment-framed Arctic transport network model"
     description: >-
       Research supervised by George Kontsevik.
       **Achievement:** co-authored “Environment-framed networks: seasonal reconfiguration
       of service accessibility in Arctic transport systems”, published in Applied Network Science (2026).
       [Read the paper](https://doi.org/10.1007/s41109-026-00783-6).
   - title: "Valeria Tikhevich — publications and research award"
-    image: "/images/publications/service-placement-time-difference.png"
-    image_alt: "Map of connections coloured by travel-time difference in minutes"
     description: >-
       Master's student research supervised by George Kontsevik.
       **Publications:** co-authored the [Arctic transport networks paper](https://doi.org/10.1007/s41109-026-00783-6)
