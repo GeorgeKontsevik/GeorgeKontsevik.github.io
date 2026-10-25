@@ -1,6 +1,7 @@
 ---
 title: "Urban Data Labs map"
 collection: "portfolio"
+category: pet
 permalink: "/project/labs-gis/"
 excerpt: "Geocoded map of laboratories, centers, schools, and research groups related to geospatial, urban, spatial, environment, architecture, and transport topics."
 image: "/images/projects/labs-gis-map.png"
