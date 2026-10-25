@@ -2,6 +2,7 @@
 title: "Decision Support for Service Placement under Changing Transport Accessibility"
 collection: portfolio
 category: thesis
+slidesurl: "https://github.com/GeorgeKontsevik/GeorgeKontsevik.github.io/releases/download/thesis-pre-defense-2026/George_Kontsevik_Thesis_Predefense_2026.pdf"
 permalink: /project/thesis-service-accessibility/
 excerpt: "Doctoral research on planning service locations and transport connections together, accounting for seasonal and weather-driven changes in accessibility."
 image: ""
