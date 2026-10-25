@@ -12,3 +12,9 @@ author_profile: true
   {% include section-card.html item=item %}
 {% endfor %}
 {% endfor %}
+
+## News
+
+{% for item in site.data.section_cards.news %}
+  {% include section-card.html item=item %}
+{% endfor %}

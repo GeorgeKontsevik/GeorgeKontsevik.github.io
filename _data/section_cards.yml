@@ -109,3 +109,16 @@ student_supervision:
       the Saint Petersburg Committee for Science and Higher Education (KNVSh),
       receiving a RUB 50,000 award (approximately USD 500).
       [Winners list, p. 9, entry 89](https://www.spbume.ru/file/news/7660/P2.pdf#page=9).
+
+news:
+  - title: "RIDE: up to 30× faster transport route search"
+    year: 2025
+    image: ""
+    image_alt: ""
+    description: >-
+      **RBC Companies · 6 February 2025.**
+      ITMO’s announcement introduces RIDE, an open-source Python library developed
+      with Sber’s AI Lab. The article reports up to 30-fold faster routing in tests
+      on road networks from more than 500 cities and includes my explanation of
+      the hierarchical graph approach.
+      [Read the article (in Russian)](https://companies.rbc.ru/news/EUtZqhL5ct/novyij-algoritm-ii-v-30-raz-uskoril-poisk-optimalnogo-marshruta-transporta/).
