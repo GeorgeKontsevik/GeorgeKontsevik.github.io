@@ -11,8 +11,8 @@ collection: "publications"
 redirect_from:
   - /project/season_framed_multilayer_arctic_network_model/
 permalink: "/publication/environment-framed-networks-seasonal-reconfiguration-of-service-accessibility-in-arctic-transport-systems/"
-image: "/images/projects/arctic-study-area.png"
-image_alt: "Arctic transport network study area"
+image: "/images/publications/arctic-multilayer-service-network.png"
+image_alt: "Multilayer service network in Yamal-Nenets and Krasnoyarsk in August, showing transport hubs, healthcare, culture, and postal service layers"
 ---
 
 Georgii Kontsevik, Alina Gubina, Valeria Tikhevich, Sergey Mityagin (2026). Environment-framed networks: seasonal reconfiguration of service accessibility in Arctic transport systems. Applied Network Science, 11, 35.
